@@ -1,7 +1,5 @@
-# Reviewkit.app
+# Reviewkit
 
-Public legal pages for Reviewkit.
-
-- [Privacy Policy](privacy.html)
-- [Terms and Conditions](terms.html)
-- [Copyright](copyright.html)
+- [Privacy Policy](PRIVACY.md)
+- [Terms and Conditions](TERMS.md)
+- [Copyright](COPYRIGHT.md)
